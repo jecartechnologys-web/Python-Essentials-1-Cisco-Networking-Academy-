@@ -1,0 +1,1 @@
+print (input( "cual es tu nombre"))
